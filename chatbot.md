@@ -2,4 +2,3 @@
 
 # Chatbot
 
-AI was not used for the Website Setup Assignment portion
