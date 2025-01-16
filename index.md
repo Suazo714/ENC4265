@@ -2,10 +2,7 @@
 
 # Welcome to my Digital Portfolio 
 
-## About Me 
-This is a paragraph about me. It explains my major at UCF, my career goals, and skills that I have. Even if I haven't worked anywhere that I would consider *in* the field that I'm majoring in, all work experience demonstrates that I can show up on time, communicate with supervisors, work with co-workers, etc. If you work in hospitality, you already work in a fast-paced environment! Retail? You've got great communication and customer service skills. Think about the things you do at work, and how those skills can be used in your dream job!
+## A Bit About Me 
+Hello, I'm Joan! I’m currently an IT major at the University of Central Florida and Software and Web Developer and QA Analyst with a passion for creating user-friendly experiences. I create and test websites that help organizations address business challenges and meet their needs as well as manage everything from website navigation and layout to web hosting and data implementation.
 
-*Note: this can be written in first person (I, me) or in third person (he/she/they). Third person is especially helpful if you use nonbinary pronouns or have a name that people often misgender.*
-
-[Start Here instructional page for copying this website](starthere.md)
-<center><img src="https://ekjphd.com/wp-content/uploads/2024/12/ilrn_avatarday-3-e1734120202850.jpg"></center>
+<center><img src="https://github.com/user-attachments/assets/dc45d99c-1df0-4c6e-bc41-47dc0d21709f"></center>
