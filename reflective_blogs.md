@@ -28,26 +28,62 @@ _Netflix in 2025_
 ---
 # Quick Start Guide
 
-## Assignment Rationale 
-This assignment will let you experiment with a generative AI tool of your choice, and you will strengthen your critical thinking skills as you evaluate its strengths and weaknesses.
+## Nintendo Switch First-Time Setup
 
-## Where to Start
-Think of a product that you already know how to use. It can be a bluetooth headset, an app, a video game, a sewing machine, or anything that requires a little bit of setup to use.
+### Instructions on how to set up your console in the Nintendo Switch family for the first time.
 
-## Assignment Steps
-This assignment is a little more structured than others in our course, so please follow these steps:
-1. Open Copilot or any other text-based generative AI tool you prefer (don't pay for it unless you happen to already have a subscription)
-2. Write a prompt that asks it to generate a quick-start guide for your product of choice. (copy and paste this somewhere - it is part of what you need to turn in)
-3. Evaluate the output. Try to follow the steps yourself, or at least imagine following them.
-4. Prompt it again (and again) if needed (again saving your prompts somewhere).
-5. Reflect on the process and write a short (200 words) reflection on the tool's strengths, weaknesses, and anything that you learned (or anything that surprised you).
+1.	Connect the USB-C plug from the Nintendo Switch AC adapter into the USB-C connector on the bottom of the console, then connect the AC adapter into the wall outlet.
 
-## What is Due
-On your portfolio, post the following:
--The name of the tool (with the link if you have it)
--Your prompts
--The best output 
--Your reflection 
+<img src= "https://github.com/user-attachments/assets/2cefda51-089c-47be-9bc9-08939b6f0e1b" width="700" height="400" />
+
+_Connect the AC Adapter to the console_
+
+2.	Attach the Joy-Con Controllers to the Nintendo Switch Console.
+
+<img src= "https://github.com/user-attachments/assets/3eba9a8d-bf7f-46d0-996b-e703df428742" width="700" height="400" />
+
+_Attaching the Joy-Con Controllers_
+
+**Optional:** If you have a microSD card, open the flap on the bottom-back part of the console and insert it as instructed.
+
+
+<img src= "https://github.com/user-attachments/assets/e437f071-ba4b-405b-8d6a-e7ef64799991" width="700" height="400" />
+
+_Inserting a microSD card to slot_
+
+
+4.	Turn on the Nintendo Switch by pressing the Power Button on the top of the console.
+
+
+<img src= "https://github.com/user-attachments/assets/40fe3739-beb4-4e7c-bccb-e7f4228f527c" width="700" height="400" />
+
+_Power button location on the console_
+
+
+5.	Follow the on-screen prompts to complete the first-time setup. Some of the settings can be configured later:
+
+      *	Region and system language settings
+      *	Agree to the End-User License Agreement
+      *	Internet Settings
+      *	Time Zone
+      *	Adding User: Set your icon and nickname
+      *	Linking your Nintendo Account
+      *	**Optional:** Configure Parental Controls
+
+6.	Insert a game card at the top of the Nintendo Switch console OR download software directly from the Nintendo eShop.
+
+<img src= "https://github.com/user-attachments/assets/bc8ac40a-91eb-4b3e-815c-9be0ec9deefd" width="700" height="400" />
+
+_Inserting game card to slot_
+
+8.	Follow the on-screen prompts to load up the software.
+
+<img src= "https://github.com/user-attachments/assets/33fd414b-cf6d-454e-935f-fc21b0de6675" width="700" height="400" />
+
+_Home Screen_
+
+9.	Congratulations! You have successfully setup your brand-new Nintendo Switch.
+
 ---
 # Reflective Blog 3
 TBD
