@@ -25,42 +25,42 @@ After going through all of these different websites, it’s clear on what has be
 
 _Netflix in 2025_
 
+*AI was not used for this assignment
+
 ---
 # Quick Start Guide
 
 ## Nintendo Switch First-Time Setup
 
-### Instructions on how to set up your console in the Nintendo Switch family for the first time.
+1) Connect the USB-C plug from the Nintendo Switch AC adapter into the USB-C connector on the bottom of the console, then connect the AC adapter into the wall outlet.
 
-1.	Connect the USB-C plug from the Nintendo Switch AC adapter into the USB-C connector on the bottom of the console, then connect the AC adapter into the wall outlet.
+      <img src= "https://github.com/user-attachments/assets/2cefda51-089c-47be-9bc9-08939b6f0e1b" width="700" height="400" />
 
-<img src= "https://github.com/user-attachments/assets/2cefda51-089c-47be-9bc9-08939b6f0e1b" width="700" height="400" />
+      _Connecting the AC Adapter to the console_
 
-_Connect the AC Adapter to the console_
+2) Attach the Joy-Con Controllers to the Nintendo Switch Console.
 
-2.	Attach the Joy-Con Controllers to the Nintendo Switch Console.
+      <img src= "https://github.com/user-attachments/assets/3eba9a8d-bf7f-46d0-996b-e703df428742" width="700" height="400" />
 
-<img src= "https://github.com/user-attachments/assets/3eba9a8d-bf7f-46d0-996b-e703df428742" width="700" height="400" />
+      _Attaching the Joy-Con Controllers_
 
-_Attaching the Joy-Con Controllers_
-
-**Optional:** If you have a microSD card, open the flap on the bottom-back part of the console and insert it as instructed.
+   **Optional:** If you have a microSD card, open the flap on the bottom-back part of the console and insert it as instructed.
 
 
-<img src= "https://github.com/user-attachments/assets/e437f071-ba4b-405b-8d6a-e7ef64799991" width="700" height="400" />
+   <img src= "https://github.com/user-attachments/assets/e437f071-ba4b-405b-8d6a-e7ef64799991" width="700" height="400" />
 
-_Inserting a microSD card to slot_
-
-
-4.	Turn on the Nintendo Switch by pressing the Power Button on the top of the console.
+   _Inserting a microSD card to slot_
 
 
-<img src= "https://github.com/user-attachments/assets/40fe3739-beb4-4e7c-bccb-e7f4228f527c" width="700" height="400" />
-
-_Power button location on the console_
+3) Turn on the Nintendo Switch by pressing the Power Button on the top of the console.
 
 
-5.	Follow the on-screen prompts to complete the first-time setup. Some of the settings can be configured later:
+      <img src= "https://github.com/user-attachments/assets/40fe3739-beb4-4e7c-bccb-e7f4228f527c" width="700" height="400" />
+
+      _Power button location on the console_
+
+
+4) Follow the on-screen prompts to complete the first-time setup. Some of the settings can be configured later:
 
       *	Region and system language settings
       *	Agree to the End-User License Agreement
@@ -70,19 +70,21 @@ _Power button location on the console_
       *	Linking your Nintendo Account
       *	**Optional:** Configure Parental Controls
 
-6.	Insert a game card at the top of the Nintendo Switch console OR download software directly from the Nintendo eShop.
+5) Insert a game card at the top of the Nintendo Switch console OR download software directly from the Nintendo eShop.
 
-<img src= "https://github.com/user-attachments/assets/bc8ac40a-91eb-4b3e-815c-9be0ec9deefd" width="700" height="400" />
+      <img src= "https://github.com/user-attachments/assets/bc8ac40a-91eb-4b3e-815c-9be0ec9deefd" width="700" height="400" />
+      
+      _Inserting game card to slot_
 
-_Inserting game card to slot_
+6) Follow the on-screen prompts to load up the software.
 
-8.	Follow the on-screen prompts to load up the software.
+      <img src= "https://github.com/user-attachments/assets/33fd414b-cf6d-454e-935f-fc21b0de6675" width="700" height="400" />
+      
+      _Home Screen_
 
-<img src= "https://github.com/user-attachments/assets/33fd414b-cf6d-454e-935f-fc21b0de6675" width="700" height="400" />
+7) Congratulations! You have successfully setup your brand-new Nintendo Switch.
 
-_Home Screen_
-
-9.	Congratulations! You have successfully setup your brand-new Nintendo Switch.
+*AI was not used for this assignment
 
 ---
 # Reflective Blog 3
