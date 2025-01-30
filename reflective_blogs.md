@@ -32,13 +32,13 @@ Note: AI was not used for this assignment
 
 ## Nintendo Switch First-Time Setup
 
-1) Connect the USB-C plug from the Nintendo Switch AC adapter into the USB-C connector on the bottom of the console, then connect the AC adapter into the wall outlet.
+1. Connect the USB-C plug from the Nintendo Switch AC adapter into the USB-C connector on the bottom of the console, then connect the AC adapter into the wall outlet.
 
    <img src= "https://github.com/user-attachments/assets/2cefda51-089c-47be-9bc9-08939b6f0e1b" width="700" height="400" />
 
    _Connecting the AC Adapter to the console_
 
-3) Attach the Joy-Con Controllers to the Nintendo Switch Console.
+2. Attach the Joy-Con Controllers to the Nintendo Switch Console.
 
    <img src= "https://github.com/user-attachments/assets/3eba9a8d-bf7f-46d0-996b-e703df428742" width="700" height="400" />
 
@@ -52,7 +52,7 @@ Note: AI was not used for this assignment
    _Inserting a microSD card to slot_
 
 
-4) Turn on the Nintendo Switch by pressing the Power Button on the top of the console.
+3. Turn on the Nintendo Switch by pressing the Power Button on the top of the console.
 
 
    <img src= "https://github.com/user-attachments/assets/40fe3739-beb4-4e7c-bccb-e7f4228f527c" width="700" height="400" />
@@ -60,7 +60,7 @@ Note: AI was not used for this assignment
    _Power button location on the console_
 
 
-5) Follow the on-screen prompts to complete the first-time setup. Some of the settings can be configured later:
+4. Follow the on-screen prompts to complete the first-time setup. Some of the settings can be configured later:
 
       *	Region and system language settings
       *	Agree to the End-User License Agreement
@@ -70,19 +70,19 @@ Note: AI was not used for this assignment
       *	Linking your Nintendo Account
       *	**Optional:** Configure Parental Controls
 
-6) Insert a game card at the top of the Nintendo Switch console OR download software directly from the Nintendo eShop.
+5. Insert a game card at the top of the Nintendo Switch console OR download software directly from the Nintendo eShop.
 
    <img src= "https://github.com/user-attachments/assets/bc8ac40a-91eb-4b3e-815c-9be0ec9deefd" width="700" height="400" />
 
    _Inserting game card to slot_
 
-7) Follow the on-screen prompts to load up the software.
+6. Follow the on-screen prompts to load up the software.
 
    <img src= "https://github.com/user-attachments/assets/33fd414b-cf6d-454e-935f-fc21b0de6675" width="700" height="400" />
 
    _Home Screen_
 
-9) Congratulations! You have successfully setup your brand-new Nintendo Switch.
+7. Congratulations! You have successfully setup your brand-new Nintendo Switch.
 
 Note: AI was not used for this assignment
 
