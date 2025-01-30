@@ -32,6 +32,10 @@ Note: AI was not used for this assignment
 
 ## Nintendo Switch First-Time Setup
 
+<img src= "https://github.com/user-attachments/assets/af10f051-1319-4fc7-a653-caa988b228ca" width="700" height="400" />
+
+_Location menu for the Nintendo Switch console_
+
 1. Connect the USB-C plug from the Nintendo Switch AC adapter into the USB-C connector on the bottom of the console, then connect the AC adapter into the wall outlet.
 
    <img src= "https://github.com/user-attachments/assets/2cefda51-089c-47be-9bc9-08939b6f0e1b" width="700" height="400" />
@@ -47,7 +51,7 @@ Note: AI was not used for this assignment
    **Optional:** If you have a microSD card, open the flap on the bottom-back part of the console and insert it as instructed.
 
 
-   <img src= "https://github.com/user-attachments/assets/e437f071-ba4b-405b-8d6a-e7ef64799991" width="700" height="400" />
+   <img src= "https://github.com/user-attachments/assets/22e774fb-0899-45fc-878c-b49a9476229d" width="700" height="400" />
 
    _Inserting a microSD card to slot_
 
