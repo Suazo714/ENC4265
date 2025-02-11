@@ -92,4 +92,17 @@ Note: AI was not used for this assignment
 
 ---
 # Reflective Blog 3
-TBD
+
+**Prompt C:** Ask a generative AI tool (maybe one in Boodlebox or Copilot) to generate something you might have to write in your future career. Assess the result, and then revise your prompt or "stack" an additional prompt onto it (e.g., "remove the passive voice and add headings"). Congratulations, you're a prompt engineer now. Add this skill to your resume. On your website, post: 1) your original and revised prompts 2) your assessment of what it generated 3) (optional) what it generated.
+
+**Original Prompt:** "Generate something for me where I might have to write in my future career as an Associate QA Analyst for a Sample Web Application."
+
+**Revised Prompt:** "Create a section to the document that is dedicated for a cybersecurity analyst."
+
+I chose this prompt because it allows me to continue my practices in working with generative AI tools, specifically within the role of my upcoming career since it is highly encouraged to use. I asked ChatGPT (version 4o) to generate for me a **sample Test Case document** to help me write as an Associate QA Analyst for a Sample Web Application. The AI tool laid out a perfect document with the expected results, similar to that of the testing tools I have personally used in the past. It is the perfect document in the case that any testing tools used by any company is down for maintenance or experiencing technical difficulties during normal work hours. Since it was a simple document, I asked ChatGPT to also **add a Cybersecurity Section** to amplify the document in the event that any security testing needed to be done and written. It laid out a simple and yet perfect sample format to which it needed little to no editing. The only issue I encountered with this was when I had asked the AI tool to allow me to download, it kept crashing out. So eventually, once it allowed me to download it, I had to make certain edits to the documents to make them readable. I’ve provided the following documents as PDF files, each corresponding to their respective prompts.
+
+[Original Prompt.pdf](https://github.com/user-attachments/files/18759591/Original.Prompt.pdf)
+
+[Revised Prompt.pdf](https://github.com/user-attachments/files/18759599/Revised.Prompt.pdf)
+
+*Note: The generative AI tool known as ChatGPT was used for this assignment.*
