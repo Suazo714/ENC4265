@@ -13,7 +13,7 @@
 **Date:** February 13, 2025
 <br>
 <br>
-I have conducted an evaluation of the Pioneer DMH-1700NEX RDS AV Receiver Manual available at: https://www.manua.ls/pioneer/dmh-1770nex/manual?p=1. Below is a detailed assessment of the product’s strengths and weaknesses, as well as recommendations for improvement.
+I have conducted an evaluation of the Pioneer DMH-1700NEX RDS AV Receiver Manual available at: (https://www.manua.ls/pioneer/dmh-1770nex/manual?p=1.) Below is a detailed assessment of the product’s strengths and weaknesses, as well as recommendations for improvement.
 <br>
 <br>
 The strengths of the manual are numerous and significant. It’s got a clear layout and organization making it logically structured and easy for users to locate relevant information. They key functions and setup steps are clearly present making it concise and help minimize confusion. The effective use of illustrations such as diagrams and images enhances user comprehension. And important regulatory and safety details are well covered, ensuring compliance with standards.
