@@ -106,3 +106,14 @@ I chose this prompt because it allows me to continue my practices in working wit
 [Revised Prompt.pdf](https://github.com/user-attachments/files/18759599/Revised.Prompt.pdf)
 
 *Note: The generative AI tool known as ChatGPT was used for this assignment.*
+
+---
+# Reflective Blog 4
+
+**Prompt Q:** Upload your resume (without your address, phone number, and email) to a generative AI tool of your choice (I suggest trying one in Boodlebox). Ask it what position you are best suited for, then ask it to revise your resume to make it more appealing to a future employer in your ideal field. Post: A summary of the suggested changes and a reflection. What did it do? What did you learn? 
+
+I ended up using ChatGPT (version 4o) as the generative AI tool for this assignment. After uploading my resume and asking what the positions I was best suited for, it listed off the following: Quality Assurance Analyst/Software Tester, Software/Front-end developer, Web developer, IT Support/Technical Analyst, and Business Analyst (Tech Focused). This was actually quite interesting because these are all positions that I was already previously interested in for future full-time employment. However upon asking the AI tool to revise my resume to make it more appealing to a future employer in my ideal field as an Associate QA Analyst, it didn’t change much of it other than rewriting my technical skills with bullets to indicate their respective fields. It also enhanced the work experience section by rewriting my previous internship experience with a much better tone and getting rid of certain bullets from past employment. To finish it off, it included an additional project to add upon and added a new section for only certifications and additional qualifications.  What I learned from this is that my resume could use a little bit of polishing to make it look nicer for future employers, but overall, it’s still very strong resume that can be guaranteed to help me land an entry-level job post-graduation.
+
+[Resume for AI edits.docx](https://github.com/user-attachments/files/18897050/Resume.for.AI.edits.docx)
+
+_Note: ChatGPT version 4o was used for this assignment. For this assignment prompt, I decided to change my name on my resume as well as deleting all of my personal and contact information so that the generative AI tool doesn’t have any of my personal information. However in the document provided, you'll see that it is still my name since I reverted it to it's original state for this assignment._
