@@ -124,3 +124,8 @@ _Note: ChatGPT version 4o was used for this assignment. For this assignment prom
 ---
 # Reflective Blog 5
 
+**Prompt R:** After you have completed the Chatbot assignment or any assignment using AI for most of the work, reflect on your interaction with this emerging technology: What does AI do well? What does it not do well? What did you have to correct or re-prompt it to modify? What can you know about its training data? What kinds of data was included? What kinds of data was excluded? What do you think the future holds as this technology is used and further advanced?
+
+What the AI does well is immediately utilize what it was given and work effectively for a passive user looking to use the chatbot. What it doesn’t do very well is go above and beyond specific requests since it is a very basic and comprehensive guide dedicated to only provide for a general user and not any specific demographic. The only thing I had to correct to modify it to make it work better was to add more detailed steps on what to provide for the user. Its training data is very simple, as there are no outside sources being given to the chatbot model other than its very basic instructions to deliver exceptional results. No additional data was included or excluded. I believe that the future of this technology will continue to get better and allow for an everyday average user to be able to create their own chatbot, should they choose to create their own website/software based on their needs.
+
+_AI Statement: No AI was used for this assignment specifically, however it is dedicated to the chatbot assignment, which utilizes ChatGPT 4o-mini through BoodleBox._
