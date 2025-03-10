@@ -6,6 +6,7 @@
 3. [Reflective Blog 3](#reflective-blog-3)
 4. [Reflective Blog 4](#reflective-blog-4)
 5. [Reflective Blog 5](#reflective-blog-5)
+6. [Reflective Blog 6](#reflective-blog-6)
    
 # Wayback Analysis
 
@@ -129,3 +130,22 @@ _Note: ChatGPT version 4o was used for this assignment. For this assignment prom
 What the AI does well is immediately utilize what it was given and work effectively for a passive user looking to use the chatbot. What it doesn’t do very well is go above and beyond specific requests since it is a very basic and comprehensive guide dedicated to only provide for a general user and not any specific demographic. The only thing I had to correct to modify it to make it work better was to add more detailed steps on what to provide for the user. Its training data is very simple, as there are no outside sources being given to the chatbot model other than its very basic instructions to deliver exceptional results. No additional data was included or excluded. I believe that the future of this technology will continue to get better and allow for an everyday average user to be able to create their own chatbot, should they choose to create their own website/software based on their needs.
 
 _AI Statement: No AI was used for this assignment specifically, however it is dedicated to the chatbot assignment, which utilizes ChatGPT 4o-mini through BoodleBox._
+
+---
+# Reflective Blog 6
+
+**Prompt P:** Create your own brief explanation of how to do something. This will give you practice to hone your technical communication skills, and it will also add examples of your work to your portfolio. (No minimum or maximum word count.) This can be done in video format, if you prefer.
+
+For this assignment, I will be briefly explaining on how to build a PC computer. First, choose the appropriate compatible components, including a CPU, motherboard, RAM, storage (SSD/HDD), GPU (if needed), power supply, case, and cooling system. Prepare a clean, static-free workspace with all of the necessary tools, such as screwdrivers with multiple heads. 
+
+Begin by installing the CPU into the motherboard by opening the CPU socket, aligning the CPU properly, and securing it in place. Apply thermal paste to the CPU and attach the CPU cooler. Next, insert RAM sticks into the appropriate slots on the motherboard. Once the CPU and RAM are installed, mount the motherboard into the case, aligning it with the standoffs and securing it with screws. Install the storage drives by mounting SSDs or HDDs into their designated slots and connecting them to the motherboard. 
+
+**Note:** If you're using a dedicated GPU, insert it into the PCIe slot and secure it to the case. 
+
+Next, mount the power supply unit and connect all necessary power cables to the components, ensuring proper power distribution. Connect the case’s front panel connectors, including the power button, USB ports, and audio jacks, to the appropriate motherboard headers. Organize and secure all cables for better airflow and aesthetics. Before closing the case, test the build by connecting a monitor, powering on the PC, and entering the BIOS to verify that all components are recognized. If everything is functioning correctly, install an operating system, such as Windows or Linux, using a bootable USB drive. 
+
+Finally, complete the process by updating all necessary drivers to ensure optimal performance. 
+
+Congratulations! Your PC is now ready for use!
+
+_AI Statement: ChatGPT version 4o was used to spellcheck this assignment_
