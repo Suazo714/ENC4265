@@ -7,6 +7,7 @@
 4. [Reflective Blog 4](#reflective-blog-4)
 5. [Reflective Blog 5](#reflective-blog-5)
 6. [Reflective Blog 6](#reflective-blog-6)
+7. [Reflective Blog 7](#reflective-blog-7)
    
 # Wayback Analysis
 
@@ -149,3 +150,12 @@ Finally, complete the process by updating all necessary drivers to ensure optima
 Congratulations! Your PC is now ready for use!
 
 _AI Statement: ChatGPT version 4o was used to spellcheck this assignment_
+
+---
+# Reflective Blog 7
+
+**Prompt F:** Reflect on one of your completed Deliverables for this course. What was easy for you? What was more difficult? Why? What did completing this assignment teach you about yourself and technical communication? What would you do differently based on the instructor's feedback? Note: this one is vintage only, but you can use AI tools for editing.
+
+For this reflective blog, I will be going over the chatbot deliverable assignment. The chatbot deliverable assignment was quite confusing in the beginning as I wasn’t sure if I was meant to interact with a chatbot or create one from scratch. Once I found out that I had to make a chatbot from scratch and created my BoodleBox account, the assignment was very straightforward. It was easy to follow along with the steps into creating the exact kind of chatbot I wanted. However what made this assignment hard was all of the small tweaking I had to do once I had the chatbot up and running to ensure that it was working correctly and smoothly. What this assignment taught me is that I need to pace myself when it comes to reading the fine print on how to create a chatbot. Based on the instructor’s feedback, there’s not much I would do for this assignment other than to continue trying to improve it to ensure that it keeps working perfectly.
+
+_AI Statement: No AI was used for this assignment_
