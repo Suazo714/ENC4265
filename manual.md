@@ -15,8 +15,7 @@
   * [About EXPORT mode](#about-export-mode)
   * [About PERFORMANCE mode](#about-performance-mode)
 * [Creating a Custom Playlist](#creating-a-custom-playlist)
-* [Syncing playlist(s) to your USB](#syncing-playlist(s)-to-your-usb)
-* [Glossary](#glossary)
+* [Syncing your custom playlist(s) to your USB](#syncing-your-custom-playlists-to-your-usb)
 
 ### Introduction
 
@@ -87,7 +86,7 @@ Use the PERFORMANCE mode for DJ mix performance on rekordbox. You can enjoy prof
 
 <img src="https://github.com/user-attachments/assets/ffd18715-63ba-467c-bdd8-97d48f3e7862"/>
 
-_Figure 7. Image of PERFORMANCE mode in RekordBox (Screenshot from RekordBox app_
+_Figure 7. Image of PERFORMANCE mode in RekordBox (Screenshot from RekordBox app)_
 
 ### Creating a Custom Playlist
 
@@ -100,7 +99,27 @@ The best way to get prepared for a music festival performance is to use your tra
    
 Optional: To delete a playlist, right-click the playlist, and then select [Delete Playlist]. Alternatively, you can delete a playlist by selecting the playlist, and then pressing the [Delete] key on the computer keyboard. To remove a track from the playlist, right-click the track in the playlist, and then select [Remove from Playlist]. Alternatively, you can remove a track from the playlist by selecting the track in the playlist, and then pressing the [Delete] key on the computer keyboard.
 
+### Syncing your custom playlist(s) to your USB
 
+The SYNC MANAGER tool in RekordBox can easily export your RekordBox playlists to USB storage devices in the updated status. After synchronizing with a device, the selected playlist is exported to the device in the latest status. Also, you can get Cues, beat positions, and ratings updated from a DJ player back to RekordBox.
+
+<img src="https://github.com/user-attachments/assets/71f0580c-2261-4c07-bb7b-3d8a0d8174fe"/>
+
+_Figure 8. Image showcasing the SYNC MANAGER tool in EXPORT mode in RekordBox (Screenshot from Rekordbox app)_
+
+1. Confirm at the top left of the RekordBox app that you are in EXPORT mode
+2. Insert a USB storage device or an SD memory card to the computer.
+3. Click on [SYNC MANAGER] at the bottom of [Media Browser]
+4. Double-click [Device], and then select the device. Playlists in the selected device are displayed.
+5. Click the [Synchronize playlists with a device] checkbox.
+6. Select your playlist(s) in RekordBox to be synchronized with the device.
+7. Click the arrow on the left side of the [Device] pane.
+
+The playlists with check marks are synchronized with the device. If the device is synchronized, selected playlists are exported to the device in the latest status. Track information in playlists is also updated to the latest status.
+
+Note: If a device is synchronized, playlists with check marks are exported to the device automatically when starting rekordbox and clicking the device in the tree view.
+
+AI Statement: No AI was used for this assignment
 
 
 
