@@ -3,7 +3,7 @@
 
 # How To Setup a USB in RekordBox For A Music Festival Performance
 
-<img src="https://github.com/user-attachments/assets/0e7c8e6f-c126-41d3-9965-87e65977f9be" width="500" height="500">
+<p align="center"> <img src= "https://github.com/user-attachments/assets/0e7c8e6f-c126-41d3-9965-87e65977f9be" width="450" height="450" /> </p>
 
 ## Table of Contents
 
