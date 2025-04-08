@@ -55,7 +55,7 @@ _Figure 3. Image of RekordBox login page (Image from RekordBox)_
 
 <img src= "https://github.com/user-attachments/assets/652b4993-2c06-4ea6-8966-d861d92fb9e5" />
 
-_Figure 4. Image of RekordBox account creation page (Image from RekordBox)
+_Figure 4. Image of RekordBox account creation page (Image from RekordBox)_
 
 3. Enter your name, email address, password, and country. If you want to receive emails from AlphaTheta, click the checkbox.
 4. Read the terms of service and privacy policy, and then click the checkbox if you agree with the terms. If you disagree with terms, you cannot use RekordBox.
