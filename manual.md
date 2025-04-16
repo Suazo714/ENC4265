@@ -21,9 +21,9 @@
 
 RekordBox is a composite software that manages music files and DJ performance. With this music management software, you can manage music files in computers and mobile devices (this includes analysis, changing settings, creating files, and saving playback histories). It allows you to produce great DJ performances by combining music files managed by RekordBox and DJ equipment. RekordBox allows DJs to create playlists, set cue points, loops, and analyze tracks for beat grids and key information. It also enables seamless integration with Pioneer DJ hardware, such as CDJs and DJ controllers. RekordBox has evolved from a software mainly used for music preparation to a more comprehensive DJ performance platform. It's available in different tiers, with varying features, including a free version for basic use and paid versions for advanced functionalities. Depending on your subscription plan, some functions may not be available.
 
-<img src="https://github.com/user-attachments/assets/d696fba4-77c8-4295-a747-ea8abfb3a098"/>
+<img src="https://github.com/user-attachments/assets/6af6a698-7b46-4fbe-ad0f-d86418bb9e0f"/>
 
-_Figure 1. Image of RekordBox in a Computer (Image from RekordBox)_
+_Figure 1. Image of RekordBox in a Computer (Screenshot from RekordBox app)_
 
 ### How to download and install RekordBox
 
@@ -45,7 +45,7 @@ _Figure 2. Image of End User Licence Agreement (Image from RekordBox)_
 
 #### Setting up RekordBox
 
-1. Launch rekordbox. The AlphaTheta account setup window is displayed. If you have already set up your AlphaTheta account for rekordbox earlier version, this window is not displayed. You can use rekordbox without procedures on this section.
+1. Launch RekordBox. The AlphaTheta account setup window is displayed. If you have already set up your AlphaTheta account for RekordBox earlier version, this window is not displayed. You can use RekordBox without procedures on this section.
 
 <img src= "https://github.com/user-attachments/assets/87001aaa-473a-456c-a1b4-b17ca763d9d6" />
 
@@ -61,7 +61,7 @@ _Figure 4. Image of RekordBox account creation page (Image from RekordBox)_
 4. Read the terms of service and privacy policy, and then click the checkbox if you agree with the terms. If you disagree with terms, you cannot use RekordBox.
 5. Click [Register]. An email with further account setup information will be sent to the email address you entered. If you do not receive the email, check the junk folder of your email software.
 6. Complete the setup by following the information in the email.
-7. Go back to rekordbox, enter the account name and password, and then click [Setup]. RekordBox is available to be used by clicking [OK].
+7. Go back to RekordBox, enter the account name and password, and then click [Setup]. RekordBox is available to be used by clicking [OK].
 
 ### EXPORT mode and PERFORMANCE mode
 
@@ -73,7 +73,7 @@ _Figure 5. Image of RekordBox app showcasing the different modes (Screenshot fro
 
 #### About EXPORT mode
 
-When using the CDJ/XDJ series, rekordbox supports DJ performances which use waveforms, cues, loops, beat sync, etc. by analyzing music files before starting. You can enjoy various DJ performances using PRO DJ LINK by adding music files, which are stored in your computer and USB storage device, to [Collection] of rekordbox and managing them. Depending on your subscription plan, you can save music files to a cloud storage and share them with other devices, including library information such as grids and cues.
+When using the CDJ/XDJ series, RekordBox supports DJ performances which use waveforms, cues, loops, beat sync, etc. by analyzing music files before starting. You can enjoy various DJ performances using PRO DJ LINK by adding music files, which are stored in your computer and USB storage device, to [Collection] of RekordBox and managing them. Depending on your subscription plan, you can save music files to a cloud storage and share them with other devices, including library information such as grids and cues.
 
 <img src="https://github.com/user-attachments/assets/f89a9caa-45ba-42c7-8b2e-d511ce48e16b"/>
 
@@ -82,7 +82,7 @@ _Figure 6. Image of EXPORT mode in RekordBox (Screenshot from RekordBox app)_
 
 #### About PERFORMANCE mode
 
-Use the PERFORMANCE mode for DJ mix performance on rekordbox. You can enjoy professional DJ performances with up to 4 decks, 16 samplers, and various features including the effect function. The PERFORMANCE mode has various functions useful for DJ play such as synchronizing performance with lighting equipment, using streaming music files, separating vocals and accompaniment parts of a music file, sharing mixes on SNS, saving music files and library information to the cloud storage to share with other devices, sharing playlists with other users, and learning the user's cue setting pattern to set cues automatically. Depending on your subscription plan, some features may not be available.
+Use the PERFORMANCE mode for DJ mix performance on RekordBox. You can enjoy professional DJ performances with up to 4 decks, 16 samplers, and various features including the effect function. The PERFORMANCE mode has various functions useful for DJ play such as synchronizing performance with lighting equipment, using streaming music files, separating vocals and accompaniment parts of a music file, sharing mixes on SNS, saving music files and library information to the cloud storage to share with other devices, sharing playlists with other users, and learning the user's cue setting pattern to set cues automatically. Depending on your subscription plan, some features may not be available.
 
 <img src="https://github.com/user-attachments/assets/ffd18715-63ba-467c-bdd8-97d48f3e7862"/>
 
@@ -90,12 +90,37 @@ _Figure 7. Image of PERFORMANCE mode in RekordBox (Screenshot from RekordBox app
 
 ### Creating a Custom Playlist
 
-The best way to get prepared for a music festival performance is to use your tracks on rekordbox by creating playlists.
+The best way to get prepared for a music festival performance is to use your tracks on RekordBox by creating playlists.
 
-1. Click on the right side of the playlist or playlist folder in the tree view. A new playlist ([Untitled Playlist]) is added under [Playlists]. 
+1. Click on the right side of the playlist or playlist folder in the tree view. A new playlist ([Untitled Playlist]) is added under [Playlists].
+
+<img src ="https://github.com/user-attachments/assets/e39aa902-1793-4350-8659-0cab548fc52b"/>
+
+_Figure 8. Image of + button to create custom playlist (Screenshot from RekordBox app)_
+
+
 2. Enter the Untitled playlist name from your computer keyboard, and then press the [Enter] key.
+
+<img src ="https://github.com/user-attachments/assets/350218f5-9bc9-4356-a821-47b920c4bdc7"/>
+
+_Figure 9. Image of the Untitled Playlist added (Screenshot from the RekordBox app)_
+
 3. Click [Collection] in the [Media Browser]. Tracks in [Collection] are displayed in the track list.
+
+<img src ="https://github.com/user-attachments/assets/276d87c2-9809-47b6-9aac-4cb332d128da"/>
+
+_Figure 10. Image of the Collection (Screenshot from the RekordBox app)_
+
 4. Display the playlist in the sub browser, and drag and drop a track to the playlist. The track is added to the playlist.
+
+<img src="https://github.com/user-attachments/assets/50e8f418-b43f-490c-b3e7-56b363c881cc"/>
+
+_Figure 11. Image of the selected songs to be added to the custom playlist (Screenshot from the RekordBox app)_
+
+<img src="https://github.com/user-attachments/assets/d2108c03-ac9f-4437-9e2f-b1df1298fd12"/>
+
+_Figure 12. Image of the selected tracks in the custom playlist (Screenshot from the RekordBox app)_
+
    
 Optional: To delete a playlist, right-click the playlist, and then select [Delete Playlist]. Alternatively, you can delete a playlist by selecting the playlist, and then pressing the [Delete] key on the computer keyboard. To remove a track from the playlist, right-click the track in the playlist, and then select [Remove from Playlist]. Alternatively, you can remove a track from the playlist by selecting the track in the playlist, and then pressing the [Delete] key on the computer keyboard.
 
@@ -105,19 +130,58 @@ The SYNC MANAGER tool in RekordBox can easily export your RekordBox playlists to
 
 <img src="https://github.com/user-attachments/assets/71f0580c-2261-4c07-bb7b-3d8a0d8174fe"/>
 
-_Figure 8. Image showcasing the SYNC MANAGER tool in EXPORT mode in RekordBox (Screenshot from Rekordbox app)_
+_Figure 13. Image showcasing the SYNC MANAGER tool in EXPORT mode in RekordBox (Screenshot from RekordBox app)_
 
 1. Confirm at the top left of the RekordBox app that you are in EXPORT mode
+
+<img src="https://github.com/user-attachments/assets/a09a7437-734c-4f27-8e8f-f7a78912c5e5"/>
+
+_Figure 14. Image confirming the selection of EXPORT mode (Screenshot from RekordBox app)_
+
 2. Insert a USB storage device or an SD memory card to the computer.
+
+<img src="https://github.com/user-attachments/assets/285e6b94-a4ea-4da0-b68f-87030ca2c823"/>
+
+_Figure 15. Image of a USB storage device installed (Screenshot from RekordBox app)_
+
 3. Click on [SYNC MANAGER] at the bottom of [Media Browser]
+
+<img src="https://github.com/user-attachments/assets/415a5282-bb52-46d9-a514-57ef15ea6236"/>
+
+_Figure 16. Image of SYNC MANAGER highlighted (Screenshot from RekordBox app)_
+
 4. Double-click [Device], and then select the device. Playlists in the selected device are displayed.
+
+<img src="https://github.com/user-attachments/assets/daf9c3a8-1415-4618-96b2-f76a60c41bcd"/>
+
+_Figure 17. Image of the device being selected in the Sync window (Screenshot from RekordBox app)_
+
 5. Click the [Synchronize playlists with a device] checkbox.
+
+<img src="https://github.com/user-attachments/assets/75698cb9-7385-4525-9f66-7f728c10a0b9"/>
+
+_Figure 18. Image confirmining the checkbox has been marked (Screenshot from RekordBox app)_
+
 6. Select your playlist(s) in RekordBox to be synchronized with the device.
+
+<img src="https://github.com/user-attachments/assets/96a2eebf-1fd2-4031-931f-8ab1a7b11fa9"/>
+
+_Figure 19. Image showcasing all playlists highlighted to be ready to be synced to USB device (Screenshot from RekordBox app)_
+
 7. Click the arrow on the left side of the [Device] pane.
+
+<img src="https://github.com/user-attachments/assets/e05e2618-1a02-4918-b498-9a2e6cc64f20"/>
+
+_Figure 20. Image highlighting the arrow to sync playlists to USB device (Screenshot from RekordBox app)_
+
 
 The playlists with check marks are synchronized with the device. If the device is synchronized, selected playlists are exported to the device in the latest status. Track information in playlists is also updated to the latest status.
 
-Note: If a device is synchronized, playlists with check marks are exported to the device automatically when starting rekordbox and clicking the device in the tree view.
+<img src="https://github.com/user-attachments/assets/f1ec97b3-9563-482c-b392-949ec8aeb364"/>
+
+_Figure 21. Image confirming the playlists synced into the USB device (Screenshot from RekordBox app)_
+
+Note: If a device is synchronized, playlists with check marks are exported to the device automatically when starting RekordBox and clicking the device in the tree view.
 
 AI Statement: No AI was used for this assignment
 
