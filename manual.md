@@ -45,27 +45,23 @@ _Figure 2. Image of End User Licence Agreement (Image from RekordBox)_
 
 #### Setting up RekordBox
 
-1. Launch RekordBox. The AlphaTheta account setup window is displayed. If you have already set up your AlphaTheta account for RekordBox earlier version, this window is not displayed. You can use RekordBox without procedures on this section.
+  1. Launch RekordBox. The AlphaTheta account setup window is displayed. If you have already set up your AlphaTheta account for RekordBox earlier version, this window is not displayed. You can use RekordBox without procedures on this section.
 
 <img src= "https://github.com/user-attachments/assets/87001aaa-473a-456c-a1b4-b17ca763d9d6" />
 
 _Figure 3. Image of RekordBox login page (Image from RekordBox)_
 
-2. Click [Create an account]
+  2. Click [Create an account]
 
 <img src= "https://github.com/user-attachments/assets/652b4993-2c06-4ea6-8966-d861d92fb9e5" />
 
 _Figure 4. Image of RekordBox account creation page (Image from RekordBox)_
 
-3. Enter your name, email address, password, and country. If you want to receive emails from AlphaTheta, click the checkbox.
-
-4. Read the terms of service and privacy policy, and then click the checkbox if you agree with the terms. If you disagree with terms, you cannot use RekordBox.
-
-5. Click [Register]. An email with further account setup information will be sent to the email address you entered. If you do not receive the email, check the junk folder of your email software.
-
-6. Complete the setup by following the information in the email.
-
-7. Go back to RekordBox, enter the account name and password, and then click [Setup]. RekordBox is available to be used by clicking [OK].
+  3. Enter your name, email address, password, and country. If you want to receive emails from AlphaTheta, click the checkbox.
+  4. Read the terms of service and privacy policy, and then click the checkbox if you agree with the terms. If you disagree with terms, you cannot use RekordBox.
+  5. Click [Register]. An email with further account setup information will be sent to the email address you entered. If you do not receive the email, check the junk folder of your email software.
+  6. Complete the setup by following the information in the email.
+  7. Go back to RekordBox, enter the account name and password, and then click [Setup]. RekordBox is available to be used by clicking [OK].
 
 
 ### EXPORT mode and PERFORMANCE mode
@@ -97,25 +93,25 @@ _Figure 7. Image of PERFORMANCE mode in RekordBox (Screenshot from RekordBox app
 
 The best way to get prepared for a music festival performance is to use your tracks on RekordBox by creating playlists.
 
-1. Click on the right side of the playlist or playlist folder in the tree view. A new playlist ([Untitled Playlist]) is added under [Playlists].
+  1. Click on the right side of the playlist or playlist folder in the tree view. A new playlist ([Untitled Playlist]) is added under [Playlists].
 
 <img src ="https://github.com/user-attachments/assets/e39aa902-1793-4350-8659-0cab548fc52b"/>
 
 _Figure 8. Image of + button to create custom playlist (Screenshot from RekordBox app)_
 
-2. Enter the Untitled playlist name from your computer keyboard, and then press the [Enter] key.
+  2. Enter the Untitled playlist name from your computer keyboard, and then press the [Enter] key.
 
 <img src ="https://github.com/user-attachments/assets/350218f5-9bc9-4356-a821-47b920c4bdc7"/>
 
 _Figure 9. Image of the Untitled Playlist added (Screenshot from the RekordBox app)_
 
-3. Click [Collection] in the [Media Browser]. Tracks in [Collection] are displayed in the track list.
+  3. Click [Collection] in the [Media Browser]. Tracks in [Collection] are displayed in the track list.
 
 <img src ="https://github.com/user-attachments/assets/276d87c2-9809-47b6-9aac-4cb332d128da"/>
 
 _Figure 10. Image of the Collection (Screenshot from the RekordBox app)_
 
-4. Display the playlist in the sub browser, and drag and drop a track to the playlist. The track is added to the playlist.
+  4. Display the playlist in the sub browser, and drag and drop a track to the playlist. The track is added to the playlist.
 
 <img src="https://github.com/user-attachments/assets/50e8f418-b43f-490c-b3e7-56b363c881cc"/>
 
@@ -136,43 +132,43 @@ The SYNC MANAGER tool in RekordBox can easily export your RekordBox playlists to
 
 _Figure 13. Image showcasing the SYNC MANAGER tool in EXPORT mode in RekordBox (Screenshot from RekordBox app)_
 
-1. Confirm at the top left of the RekordBox app that you are in EXPORT mode
+  1. Confirm at the top left of the RekordBox app that you are in EXPORT mode
 
 <img src="https://github.com/user-attachments/assets/a09a7437-734c-4f27-8e8f-f7a78912c5e5"/>
 
 _Figure 14. Image confirming the selection of EXPORT mode (Screenshot from RekordBox app)_
 
-2. Insert a USB storage device or an SD memory card to the computer.
+  2. Insert a USB storage device or an SD memory card to the computer.
 
 <img src="https://github.com/user-attachments/assets/285e6b94-a4ea-4da0-b68f-87030ca2c823"/>
 
 _Figure 15. Image of a USB storage device installed (Screenshot from RekordBox app)_
 
-3. Click on [SYNC MANAGER] at the bottom of [Media Browser]
+  3. Click on [SYNC MANAGER] at the bottom of [Media Browser]
 
 <img src="https://github.com/user-attachments/assets/415a5282-bb52-46d9-a514-57ef15ea6236"/>
 
 _Figure 16. Image of SYNC MANAGER highlighted (Screenshot from RekordBox app)_
 
-4. Double-click [Device], and then select the device. Playlists in the selected device are displayed.
+  4. Double-click [Device], and then select the device. Playlists in the selected device are displayed.
 
 <img src="https://github.com/user-attachments/assets/daf9c3a8-1415-4618-96b2-f76a60c41bcd"/>
 
 _Figure 17. Image of the device being selected in the Sync window (Screenshot from RekordBox app)_
 
-5. Click the [Synchronize playlists with a device] checkbox.
+  5. Click the [Synchronize playlists with a device] checkbox.
 
 <img src="https://github.com/user-attachments/assets/75698cb9-7385-4525-9f66-7f728c10a0b9"/>
 
 _Figure 18. Image confirmining the checkbox has been marked (Screenshot from RekordBox app)_
 
-6. Select your playlist(s) in RekordBox to be synchronized with the device.
+  6. Select your playlist(s) in RekordBox to be synchronized with the device.
 
 <img src="https://github.com/user-attachments/assets/96a2eebf-1fd2-4031-931f-8ab1a7b11fa9"/>
 
 _Figure 19. Image showcasing all playlists highlighted to be ready to be synced to USB device (Screenshot from RekordBox app)_
 
-7. Click the arrow on the left side of the [Device] pane.
+  7. Click the arrow on the left side of the [Device] pane.
 
 <img src="https://github.com/user-attachments/assets/e05e2618-1a02-4918-b498-9a2e6cc64f20"/>
 
