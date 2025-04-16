@@ -98,7 +98,6 @@ The best way to get prepared for a music festival performance is to use your tra
 
 _Figure 8. Image of + button to create custom playlist (Screenshot from RekordBox app)_
 
-
 2. Enter the Untitled playlist name from your computer keyboard, and then press the [Enter] key.
 
 <img src ="https://github.com/user-attachments/assets/350218f5-9bc9-4356-a821-47b920c4bdc7"/>
