@@ -58,10 +58,15 @@ _Figure 3. Image of RekordBox login page (Image from RekordBox)_
 _Figure 4. Image of RekordBox account creation page (Image from RekordBox)_
 
 3. Enter your name, email address, password, and country. If you want to receive emails from AlphaTheta, click the checkbox.
+
 4. Read the terms of service and privacy policy, and then click the checkbox if you agree with the terms. If you disagree with terms, you cannot use RekordBox.
+
 5. Click [Register]. An email with further account setup information will be sent to the email address you entered. If you do not receive the email, check the junk folder of your email software.
+
 6. Complete the setup by following the information in the email.
+
 7. Go back to RekordBox, enter the account name and password, and then click [Setup]. RekordBox is available to be used by clicking [OK].
+
 
 ### EXPORT mode and PERFORMANCE mode
 
@@ -183,6 +188,3 @@ _Figure 21. Image confirming the playlists synced into the USB device (Screensho
 Note: If a device is synchronized, playlists with check marks are exported to the device automatically when starting RekordBox and clicking the device in the tree view.
 
 AI Statement: No AI was used for this assignment
-
-
-
