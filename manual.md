@@ -17,7 +17,7 @@
 * [Creating a Custom Playlist](#creating-a-custom-playlist)
 * [Syncing your custom playlist(s) to your USB](#syncing-your-custom-playlists-to-your-usb)
 
-### Introduction
+## Introduction
 
 RekordBox is a composite software that manages music files and DJ performance. With this music management software, you can manage music files in computers and mobile devices (this includes analysis, changing settings, creating files, and saving playback histories). It allows you to produce great DJ performances by combining music files managed by RekordBox and DJ equipment. RekordBox allows DJs to create playlists, set cue points, loops, and analyze tracks for beat grids and key information. It also enables seamless integration with Pioneer DJ hardware, such as CDJs and DJ controllers. RekordBox has evolved from a software mainly used for music preparation to a more comprehensive DJ performance platform. It's available in different tiers, with varying features, including a free version for basic use and paid versions for advanced functionalities. Depending on your subscription plan, some functions may not be available.
 
@@ -25,7 +25,7 @@ RekordBox is a composite software that manages music files and DJ performance. W
 
 _Figure 1. Image of RekordBox in a Computer (Screenshot from RekordBox app)_
 
-### How to download and install RekordBox
+## How to download and install RekordBox
 
 Before installing RekordBox, make sure to read “RekordBox END USER LICENCE AGREEMENT”. If you are installing RekordBox, use the following procedures. To install or uninstall RekordBox, you need to log on as the administrator of your computer. Have the administrator’s name and password ready before starting.
 
@@ -33,7 +33,7 @@ Before installing RekordBox, make sure to read “RekordBox END USER LICENCE AGR
 
 _Figure 2. Image of End User Licence Agreement (Image from RekordBox)_
 
-#### Installing RekordBox
+### Installing RekordBox
 
 __1) Launch a web browser on your computer, access the RekordBox website (RekordBox.com), and then open the RekordBox downloading page. Information about how to install RekordBox and how to use RekordBox features is displayed.__
 
@@ -49,7 +49,7 @@ __6) Double-click the unzipped file to launch the installer__
 
 __7) Follow the instructions on the screen to install RekordBox__
 
-#### Setting up RekordBox
+### Setting up RekordBox
 
 __1) Launch RekordBox. The AlphaTheta account setup window is displayed. If you have already set up your AlphaTheta account for RekordBox earlier version, this window is not displayed. You can use RekordBox without procedures on this section.__
 
@@ -74,7 +74,7 @@ __6) Complete the setup by following the information in the email.__
 __7) Go back to RekordBox, enter the account name and password, and then click [Setup]. RekordBox is available to be used by clicking [OK].__
 
 
-### EXPORT mode and PERFORMANCE mode
+## EXPORT mode and PERFORMANCE mode
 
 RekordBox provides two modes for your DJ set preparation and DJ performance. Click [EXPORT] or [PERFORMANCE] in the upper-left of the screen to change the mode.
 
@@ -82,7 +82,7 @@ RekordBox provides two modes for your DJ set preparation and DJ performance. Cli
 
 _Figure 5. Image of RekordBox app showcasing the different modes (Screenshot from RedkordBox app)_
 
-#### About EXPORT mode
+### About EXPORT mode
 
 When using the CDJ/XDJ series, RekordBox supports DJ performances which use waveforms, cues, loops, beat sync, etc. by analyzing music files before starting. You can enjoy various DJ performances using PRO DJ LINK by adding music files, which are stored in your computer and USB storage device, to [Collection] of RekordBox and managing them. Depending on your subscription plan, you can save music files to a cloud storage and share them with other devices, including library information such as grids and cues.
 
@@ -91,7 +91,7 @@ When using the CDJ/XDJ series, RekordBox supports DJ performances which use wave
 
 _Figure 6. Image of EXPORT mode in RekordBox (Screenshot from RekordBox app)_
 
-#### About PERFORMANCE mode
+### About PERFORMANCE mode
 
 Use the PERFORMANCE mode for DJ mix performance on RekordBox. You can enjoy professional DJ performances with up to 4 decks, 16 samplers, and various features including the effect function. The PERFORMANCE mode has various functions useful for DJ play such as synchronizing performance with lighting equipment, using streaming music files, separating vocals and accompaniment parts of a music file, sharing mixes on SNS, saving music files and library information to the cloud storage to share with other devices, sharing playlists with other users, and learning the user's cue setting pattern to set cues automatically. Depending on your subscription plan, some features may not be available.
 
@@ -99,7 +99,7 @@ Use the PERFORMANCE mode for DJ mix performance on RekordBox. You can enjoy prof
 
 _Figure 7. Image of PERFORMANCE mode in RekordBox (Screenshot from RekordBox app)_
 
-### Creating a Custom Playlist
+## Creating a Custom Playlist
 
 The best way to get prepared for a music festival performance is to use your tracks on RekordBox by creating playlists.
 
@@ -134,7 +134,7 @@ _Figure 12. Image of the selected tracks in the custom playlist (Screenshot from
    
 Optional: To delete a playlist, right-click the playlist, and then select [Delete Playlist]. Alternatively, you can delete a playlist by selecting the playlist, and then pressing the [Delete] key on the computer keyboard. To remove a track from the playlist, right-click the track in the playlist, and then select [Remove from Playlist]. Alternatively, you can remove a track from the playlist by selecting the track in the playlist, and then pressing the [Delete] key on the computer keyboard.
 
-### Syncing your custom playlist(s) to your USB
+## Syncing your custom playlist(s) to your USB
 
 The SYNC MANAGER tool in RekordBox can easily export your RekordBox playlists to USB storage devices in the updated status. After synchronizing with a device, the selected playlist is exported to the device in the latest status. Also, you can get Cues, beat positions, and ratings updated from a DJ player back to RekordBox.
 
